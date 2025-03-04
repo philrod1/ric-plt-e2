@@ -20,7 +20,7 @@ e2
 T1
 setUpTest
 subscriptionTest
-CMakeLists.txt
+/CMakeLists.txt
 RIC-E2-TERMINATION/asnFiles/e2sm-gNB-X2-release-1-v040.asn
 e2smtest
 libe2sm.a
